@@ -1400,6 +1400,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameOverText: {fileID: 1635469834}
+  scoreText: {fileID: 1712347590}
   restartButton: {fileID: 910291856}
   quitButton: {fileID: 741484520}
 --- !u!1 &1486299349
@@ -1643,7 +1644,7 @@ GameObject:
   - component: {fileID: 1712347591}
   - component: {fileID: 1712347590}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: Score
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
